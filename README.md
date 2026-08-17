@@ -1,11 +1,12 @@
-#  Spotify Product Usage Analytics & Feature Adoption Tracker
+# 🎧 Spotify Product Usage Analytics & Feature Adoption Tracker
 
 > An end-to-end product data analytics portfolio project tracking listener behavior, drop-off rates across the core streaming funnel, and the retention impact of personalized discovery features (AI DJ, Discover Weekly) to optimize Free-to-Premium conversion.
 
 ---
 
-## Project Architecture
+## 📂 Project Architecture
 
+```text
 spotify-product-analytics/
 │
 ├── data/
@@ -21,7 +22,8 @@ spotify-product-analytics/
 │
 ├── dashboard/
 │   └── app.py                         # Streamlit interactive stakeholder dashboard
-│                       
+│
+│
 └── README.md
 
 ## Tech Stack & Skills Demonstrated
